@@ -1,0 +1,11 @@
+wjyteam\wx\handler\WxChatMsgTypeEnum.class
+wjyteam\wx\handler\SubscribeMsgHandler.class
+wjyteam\wx\controller\CallBackController.class
+wjyteam\wx\WxApplication.class
+wjyteam\wx\redis\RedisConfig.class
+wjyteam\wx\redis\RedisUtil.class
+wjyteam\wx\handler\ReceiveTextMsgHandler.class
+wjyteam\wx\utils\MessageUtil.class
+wjyteam\wx\handler\WxChatMsgHandler.class
+wjyteam\wx\handler\WxChatMsgFactory.class
+wjyteam\wx\utils\SHA1.class
